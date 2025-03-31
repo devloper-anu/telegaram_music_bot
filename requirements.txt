@@ -1,5 +1,6 @@
-pyrogram
-tgcrypto
+python-telegram-bot
+aiohttp
+requests
 pytgcalls
-yt-dlp
 ffmpeg
+yt-dlp
